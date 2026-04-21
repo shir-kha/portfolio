@@ -4,3 +4,10 @@ css: /assets/css/style.scss
 description: 2193shikhan@gmail.com https://www.linkedin.com/in/shiraz-khan1/ 
 show_downloads: false
 theme: jekyll-theme-minimal
+navigation:
+- text: Education
+  internal: true
+  url: ./##Education
+- text: Additional Skills
+  internal: true
+  url: ./##Additional Skills
