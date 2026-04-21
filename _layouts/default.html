@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+        }
+        nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 200px;
+            height: 100%;
+            background-color: #333;
+            padding: 15px;
+            color: white;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            display: block;
+            margin-bottom: 10px;
+        }
+        section {
+            margin-left: 220px;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <h2>Navigation</h2>
+        <a href="#Top">Top</a>
+        <a href="#Education">Education</a>
+        <a href="#UniversityProjects">University Projects</a>
+        <a href="#WorkExperience">Work Experience</a>
+        <a href="#TechnicalSkills">Technical Skills</a>
+    </nav>
+    <section id="Top">
+        <h1>Top</h1>
+        <p>Welcome to my portfolio!</p>
+    </section>
+    <section id="Education">
+        <h1>Education</h1>
+        <p>Details about my education.</p>
+    </section>
+    <section id="UniversityProjects">
+        <h1>University Projects</h1>
+        <p>Details about my university projects.</p>
+    </section>
+    <section id="WorkExperience">
+        <h1>Work Experience</h1>
+        <p>Details about my work experience.</p>
+    </section>
+    <section id="TechnicalSkills">
+        <h1>Technical Skills</h1>
+        <p>Details about my technical skills.</p>
+    </section>
+    <script>
+        const sections = document.querySelectorAll('section');
+        sections.forEach(section => {
+            const heading = section.querySelector('h1');
+            section.id = heading.innerText.replace(/\s+/g, '');
+        });
+        document.querySelectorAll('nav a').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                const targetId = this.getAttribute('href').substring(1);
+                document.getElementById(targetId).scrollIntoView({ behavior: 'smooth' });
+            });
+        });
+    <\/script>
+</body>
+</html>
