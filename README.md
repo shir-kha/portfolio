@@ -1,10 +1,10 @@
 ## 🎓 Education
-
-**MEng Aerospace Engineering (Hons)** — Expected 2:1  
+<span style="color:white">**MEng Aerospace Engineering (Hons)** text</span>.
+Expected 2:1  *Graduation: July 2026*
 University of Nottingham, UK  
-*Graduation: July 2026*
 
-**A-Levels**
+
+<span style="color:white">**A-Levels** text</span>.
 Runshaw College, Leyland, UK
 - Computer Science (A)  
 - Mathematics (A)  
@@ -13,7 +13,7 @@ Runshaw College, Leyland, UK
 ---
 
 ## 🚀 University Projects
-<span style="color:blue">some *University Projects* text</span>.
+
 
 ### Orbiter Spacecraft Mission to Asteroid Ceres
 *Sept 2024 – May 2025*
