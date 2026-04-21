@@ -2,7 +2,14 @@ title: Shiraz Khan
 css: /assets/css/style.scss
 #logo: /assets/img/head_circle.png
 description: >
-  Email: 2193shikhan@gmail.com <br>
-  <a href="https://www.linkedin.com/in/shiraz-khan1/">LinkedIn</a>
+  <p>
+    <img src="/assets/img/email_icon.png" alt="Email" style="width:18px; vertical-align:middle;">
+    <a href="mailto:2193shikhan@gmail.com">Email me</a>
+  </p>
+
+  <p>
+    <img src="/assets/img/linkedin_icon.png" alt="LinkedIn" style="width:18px; vertical-align:middle;">
+    <a href="https://www.linkedin.com/in/shiraz-khan1/">LinkedIn</a>
+  </p>
 show_downloads: false
 theme: jekyll-theme-minimal
