@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Background image */
+body {
+  background-image: url('/assets/artemis2_background.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+/* Optional: make text readable */
+.wrapper {
+  background: rgba(255, 255, 255, 0.85);
+  padding: 20px;
+  border-radius: 10px;
+}
