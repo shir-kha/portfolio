@@ -1,4 +1,5 @@
 title: Shiraz Khan
+css: /assets/css/style.scss
 #logo: /assets/img/head_circle.png
 #description: text below image
 show_downloads: false
