@@ -1,9 +1,7 @@
-# Shiraz Khan  
-## MEng (Hons) Aerospace Engineer  
-### University of Nottingham, UK  
+# 
+## 
+### 
 
-📧 2193shikhan@gmail.com  
-🔗 [LinkedIn](http://www.linkedin.com/in/shiraz-khan1)
 
 ---
 
