@@ -4,12 +4,3 @@ css: /assets/css/style.scss
 description: 2193shikhan@gmail.com https://www.linkedin.com/in/shiraz-khan1/ 
 show_downloads: false
 theme: jekyll-theme-minimal
-nav:
-  - name: Home
-    link: /
-  - name: Projects
-    link: /projects
-
-# Markdown settings
-markdown: kramdown
-highlighter: rouge
