@@ -3,3 +3,12 @@ title: Shiraz Khan
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
+nav:
+  - name: Home
+    link: /
+  - name: Projects
+    link: /projects
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
