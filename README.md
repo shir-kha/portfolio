@@ -89,4 +89,4 @@ Runshaw College, Leyland, UK
 
 ## 📌 About Me
 
-Aspiring aerospace engineer with hands-on experience in aircraft maintenance, spacecraft design, and rocketry. Passionate about space systems, propulsion, and real-world engineering challenges.
+I'm an aspiring aerospace engineer with hands-on experience in aircraft maintenance, spacecraft design, and rocketry. Passionate about space systems, propulsion, and real-world engineering challenges!
