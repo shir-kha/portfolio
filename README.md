@@ -1,10 +1,3 @@
-# 
-## 
-### 
-
-
----
-
 ## 🎓 Education
 
 **MEng Aerospace Engineering (Hons)** — Expected 2:1  
