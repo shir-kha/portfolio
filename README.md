@@ -3,7 +3,6 @@
 ### University of Nottingham, UK  
 
 📧 2193shikhan@gmail.com  
-📞 +44 7340 018784  
 🔗 [LinkedIn](http://www.linkedin.com/in/shiraz-khan1)
 
 ---
@@ -14,11 +13,11 @@
 University of Nottingham, UK  
 *Graduation: July 2026*
 
-**A-Levels**  
+**A-Levels**
+Runshaw College, Leyland, UK
 - Computer Science (A)  
 - Mathematics (A)  
-- Physics (B)  
-Runshaw College, Leyland  
+- Physics (B)
 
 ---
 
