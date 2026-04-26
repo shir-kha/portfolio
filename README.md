@@ -1,6 +1,6 @@
 ## 🎓 Education
-<span>**MEng Aerospace Engineering (Hons)** text</span>.
-\n Expected 2:1  *2022 - 2026*
+<span>**MEng Aerospace Engineering (Hons)**\n</span>.
+Expected 2:1  *2022 - 2026*
 University of Nottingham, UK  
 
 ---
