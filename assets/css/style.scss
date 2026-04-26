@@ -5,38 +5,43 @@
 
 /* Background image */
 body {
-  background-image: url('../img/artemis2_background.jpg');
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-  color: #ffffff;
+    background-image: url("../img/artemis2_background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #ffffff;
 }
 
 /* Improve readability of main content */
-.wrapper {
-  background: rgba(0, 0, 0, 0.75);
-  padding: 20px;
-  border-radius: 10px;
-  color: #ffffff;
+.wrapper {node -v
+    background: rgba(0, 0, 0, 0.75);
+    padding: 20px;
+    border-radius: 10px;
+    color: #ffffff;
 }
 
 /* Style headings for better visibility */
-h1, h2, h3, h4, h5, h6 {
-  color: #ffffff;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #ffffff;
 }
 
 /* Style links */
 a {
-  color: #4da6ff;
+    color: #4da6ff;
 }
 p.normal {
-  color: #ffffff;
+    color: #ffffff;
 }
 
 p.thick {
-  color: #ffffff;
+    color: #ffffff;
 }
 
 p.thicker {
-  color: #ffffff;
+    color: #ffffff;
 }
