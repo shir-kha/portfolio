@@ -1,8 +1,8 @@
 title: Shiraz Khan
 css: /assets/css/style.scss
 logo: /assets/img/pfp.jpeg
-email_icon: https://path/to/email-icon.png
-linkedin_icon: https://path/to/linkedin-icon.png
+email_icon: /assets/img/email_icon.png
+linkedin_icon: /assets/img/linkedin_icon.png
 description: >
   <p>
     <img src="{{ '/assets/img/email_icon.png' | relative_url }}" alt="Email" style="width:18px; vertical-align:middle;">

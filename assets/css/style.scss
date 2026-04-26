@@ -31,14 +31,10 @@ h6 {
 a {
     color: #4da6ff;
 }
-p.normal {
-    color: #ffffff;
-}
-
-p.thick {
-    color: #ffffff;
-}
-
-p.thicker {
+p.normal,
+p.thin,
+p.thick,
+p.thicker,
+p:default {
     color: #ffffff;
 }
