@@ -5,7 +5,7 @@ email_icon: /assets/img/email_icon.png
 linkedin_icon: /assets/img/linkedin_icon.png
 description: >
   <p>
-    <img src=email_icon alt="Email">
+    <img src=assets/img/email_icon.png alt="Email">
     <a href="mailto:2193shikhan@gmail.com">Show email</a>
   </p>
 
