@@ -5,12 +5,12 @@ email_icon: /assets/img/email_icon.png
 linkedin_icon: /assets/img/linkedin_icon.png
 description: >
   <p>
-    <img src="{{ '/assets/img/email_icon.png' | relative_url }}" alt="Email" style="width:18px; vertical-align:middle;">
+    <img src="/assets/img/email_icon.png" alt="Email">
     <a href="mailto:2193shikhan@gmail.com">Show email</a>
   </p>
 
   <p>
-    <img src="{{ '/assets/img/linkedin_icon.png' | relative_url }}" alt="LinkedIn" style="width:18px; vertical-align:middle;">
+    <img src="/assets/img/linkedin_icon.png" alt="LinkedIn">
     <a href="https://www.linkedin.com/in/shiraz-khan1/">LinkedIn</a>
   </p>
 show_downloads: false

@@ -3,13 +3,6 @@
 \n Expected 2:1  *2022 - 2026*
 University of Nottingham, UK  
 
-
-<span>**A-Levels** text</span>.
-Runshaw College, Leyland, UK
-- Computer Science (A)  
-- Mathematics (A)  
-- Physics (B)
-
 ---
 
 ## 🚀 University Projects
