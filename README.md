@@ -1,10 +1,10 @@
 ## 🎓 Education
-<span style="color:white">**MEng Aerospace Engineering (Hons)** text</span>.
-Expected 2:1  *Graduation: July 2026*
+<span>**MEng Aerospace Engineering (Hons)** text</span>.
+\n Expected 2:1  *2022 - 2026*
 University of Nottingham, UK  
 
 
-<span style="color:white">**A-Levels** text</span>.
+<span>**A-Levels** text</span>.
 Runshaw College, Leyland, UK
 - Computer Science (A)  
 - Mathematics (A)  
